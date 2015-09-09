@@ -1,0 +1,2 @@
+git+https://github.com/geo-data/python-epsg.git#egg=epsg
+SQLAlchemy
